@@ -1,0 +1,60 @@
+Example Number,Output,Prediction,Cosine Score,Comment
+1,Q: Can you give me more details on application process for kisan credit card loan with State Bank of India?,Q: Can you give me more details on application process for above with State Bank of India?,0.8,None
+2,Q: Where is State Bank of India located?,Q: Where is State Bank of India located?,1.0,None
+3,Q: And what about the soil pH level for tomatoes?,Q: And what about the soil pH level?,0.82,No explicit coreference
+4,Q: What are the common methods involved in integrated pest management?,Q: What are the common methods involved in use?,0.55,None
+5,Q: Can you explain the benefits of using drip irrigation?,Q: Can you explain the benefits of using Drip irrigation?,1.0,None
+6,Q: Which organic matter should I use to improve soil fertility?,Q: Which organic matter should I use?,0.75,No explicit coreference
+7,Q: How do I keep pests away from the harvested grains?,Q: How do I keep pests away from pests?,0.79,None
+8,Q: How should I prune my fruit trees properly?,Q: How should I do prune properly?,0.78,None
+9,Q: Which cover crops are suitable for preventing soil erosion?,Q: Which cover crops are suitable?,0.8,No explicit coreference
+10,Q: How can I address the nutrient deficiency issue in plants?,Q: How can I address this issue?,0.31,None
+11,Q: Which organic herbicides are safe to use to control weeds?,Q: Which organic herbicides are safe to use?,0.93,No explicit coreference
+12,Q: What type of fertilizer is recommended for my vegetable garden?,Q: What type of fertilizer is recommended?,0.9,No explicit coreference
+13,Q: Are there any specific fertilizer recommendations for my maize crop?,Q: Are there any specific fertilizer recommendations?,0.78,No explicit coreference
+14,Q: When should I take the cuttings for rose plants?,Q: When should I take the cuttings?,0.71,No explicit coreference
+15,Q: What type of organic matter should I use to improve clay soil drainage?,Q: What type of organic matter should I use?,0.67,No explicit coreference
+16,Q: Which fungicides are effective against blight in potato plants?,Q: Which fungicides are effective against blight?,0.9,None
+17,Q: What is the best time for transplanting rice seedlings?,Q: What is the best time for transplanting them?,0.76,None
+18,Q: What are the benefits of growing these drought-tolerant crops?,"Q: What are the benefits of growing millets, sorghum, and cowpeas?",0.64,None
+19,Q: What can I do to control aphids on my plants?,Q: What can I do to control Aphids?,0.93,None
+20,Q: How can I produce vermicompost on my farm?,Q: How can I produce it on I farm?,0.61,None
+21,Q: How can I attract more pollinators to my fruit trees?,Q: How can I attract more pollinators?,0.79,No explicit coreference
+22,Q: What about blast pest treatment for brinjal?,Q: What about brinjal?,0.61,No explicit coreference
+23,Q: Which other pesticide can I use to prevent Phomopsis blight of brinjal?,Q: Which other pesticide can I use for this?,0.64,Wrong grammar for coreference
+24,Q: Are there any organic methods to manage powdery mildew on cucumber plants?,Q: Are there any organic methods to manage powdery mildew?,0.85,No explicit coreference
+25,Q: How should I store harvested watermelons?,Q: How should I store harvested watermelons?,1.0,No coreference resolution required
+26,Q: What are the symptoms of blossom end rot in tomatoes?,Q: What are the symptoms of blossom end rot?,0.88,No explicit coreference
+27,Q: How can I construct a raised bed for vegetable gardening?,Q: How can I construct a raised bed?,0.81,No explicit coreference
+28,Q: When should I terminate the cover crops for nitrogen improvement in the soil?,Q: When should I terminate the cover crops?,0.81,No explicit coreference
+29,Q: Which fungicides are effective against early blight in tomatoes?,Q: Which fungicides are effective against early blight?,0.87,No explicit coreference
+30,Q: How can I lower the pH of my soil for blueberry cultivation?,Q: How can I lower the pH of my soil?,0.78,No explicit coreference
+31,Q: How should I store harvested lettuce?,Q: How should I store harvested lettuce?,1.0,No coreference resolution required
+32,Q: What are the causes of fruit splitting in tomatoes?,Q: What are the causes of fruit splitting?,0.87,No explicit coreference
+33,Q: How do I install a drip irrigation system in a greenhouse?,Q: How do I install a drip irrigation system in a greenhouse?,1.0,No coreference resolution required
+34,Q: What are some effective organic mulching options for weed control in a flower garden?,Q: What are some effective organic mulching options?,0.79,No explicit coreference
+35,Q: How do I propagate new strawberry plants?,Q: How do I propagate new strawberry plants?,1.0,No coreference resolution required
+36,Q: Which plants are known to repel rabbits from vegetable gardens?,Q: Which plants are known to repel rabbits?,0.93,No explicit coreference
+37,"Q: How can I prevent the spread of early blight, late blight, and tomato mosaic virus in tomato plants?",Q: How can I prevent the spread of Common diseases that affect tomato plants?,0.76,Partial explicit coreference missing
+38,Q: Which fungicides are recommended for controlling powdery mildew on cucumbers?,Q: Which fungicides are recommended for controlling powdery mildew?,0.86,No explicit coreference
+39,Q: How do I train young grapevines?,Q: How do I train young grapevines?,1.0,No coreference resolution required
+40,Q: How do I fix overwatering plants?,Q: How do I fix it?,0.35,None
+41,Q: When should I remove the frost protection for plants?,Q: When should I remove the frost protection?,0.87,No explicit coreference
+42,Q: What are some energy-efficient appliances I should consider for reducing energy consumption in my home?,Q: What are some energy-efficient appliances I should consider?,0.94,No explicit coreference
+43,Q: What are some effective strategies for minimizing distractions to improve time management?,Q: What are some effective strategies for minimizing distractions?,0.81,No explicit coreference
+44,Q: How can I incorporate mindfulness into my daily routine to reduce stress?,Q: How can I incorporate mindfulness into I daily routine?,0.84,No explicit coreference
+45,Q: What are some exercises for practicing active listening to improve communication skills?,Q: What are some exercises for practicing active listening?,0.87,No explicit coreference
+46,Q: What are some effective marketing strategies for promoting online businesses?,Q: What are some effective marketing strategies for online businesses?,0.97,None
+47,Q: What are some key principles of wise investing for improving financial management skills?,Q: What are some key principles of wise investing?,0.83,No explicit coreference
+48,Q: What are some self-care activities I can incorporate into my routine to maintain a healthy work-life balance?,Q: What are some self-care activities I can incorporate into I routine?,0.85,No explicit coreference
+49,Q: What are some effective methods for positive reinforcement during the house-training of a puppy?,Q: What are some effective methods for positive reinforcement during house-training?,0.83,No explicit coreference
+50,Q: How do I plan an effective crop rotation schedule?,Q: How do I plan an effective rotation schedule?,0.79,Review required
+51,Q: How far apart should I space the carrot rows when planting?,Q: How far apart should I space the carrot rows?,0.96,Review required
+52,Q: What is the life cycle of codling moths that infest apple trees?,Q: What is the life cycle of codling moths?,0.85,Review required
+53,Q: How should I cure harvested garlic bulbs?,Q: How should I cure harvested garlic?,0.85,Review required
+54,Q: How do I make insecticidal soap at home for controlling aphids?,Q: How do I make insecticidal soap at home?,0.86,Review required
+55,Q: How often should I take my cat to the veterinarian for check-ups to ensure its health?,Q: How often should I take I cat to the veterinarian for check-ups?,0.97,Review required
+56,Q: What are some common words or phrases that parrots can learn to say during training?,Q: What are some common words or phrases that parrots can learn to say?,0.93,Review required
+57,Q: What are some suitable toys for rabbits to enhance their enrichment?,Q: What are some suitable toys for rabbits?,0.9,Review required
+58,Q: What are some signs of stress in fish that I should look out for during the introduction process?,Q: What are some signs of stress in fish?,0.91,Review required
+59,Q: What if my cat has diabetes and requires a specialized diet? How should I modify its feeding schedule and dietary choices?,Q: What if my cat has diabetes and requires a specialized diet?,0.9,Review required
