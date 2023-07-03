@@ -1,4 +1,5 @@
 import spacy
+from fastcoref import spacy_component
 
 class SpacyModel:
     def __init__(self):
