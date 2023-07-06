@@ -1,0 +1,286 @@
+{
+    "data": [
+        {
+            "Input" : "User: How can I apply for a kisan credit card loan? AI: To apply for a Kisan Credit Card loan, you need to visit a bank that offers this loan product. Different banks have different requirements for mandatory documents, loan tenure, and effective rate of interest. Some banks that offer Kisan Credit Card loans include State Bank of India, Punjab and Sind Bank, Indian Bank, Bank of India, and Union Bank. It is recommended that you bring along some important documents such as Aadhar card, pan card, voter ID card, bank statement, land documents, and others depending on the bank's requirements. You can contact your nearest bank branch or visit their website to know more about their specific loan requirements and application process. User: Can you give me more details on application process for above with State Bank of India?",
+            "Output": "User: Can you give me more details on application process for kisan credit card loan with State Bank of India?"
+        },
+        {
+            "Input": "User: Can you give me more details on application process for the kisan credit card loan with State Bank of India? AI: Yes, I can provide some details on the application process for the Kisan Credit Card loan with State Bank of India. You would need to visit your nearest State Bank of India branch and submit your Aadhar Card and PAN card as mandatory documents along with other documents they may require. The loan has a tenure of 5 years subject to annual review and the effective rate of interest will be linked to One Year MCLR of the Bank. The present one year MCLR of Bank is 7.70% for loans up to 3.00 lakhs and 10.95% for loans above Rs.3.00 lakhs. User: Where is the bank located?",
+            "Output": "User: Where is State Bank of India located?"
+        },
+        {
+            "Input": "User: What is the ideal temperature for growing tomatoes? AI: The ideal temperature for growing tomatoes is between 21-27°C. User: And what about the soil pH level?",
+            "Output": "User: And what about the soil pH level for tomatoes?",
+            "Comment": "No explicit coreference"
+        },
+        {
+            "Input": "User: How do I protect my crops from pests? AI: You can use integrated pest management techniques to protect your crops. User: What are the common methods involved in that?",
+            "Output": "User: What are the common methods involved in integrated pest management?"
+        },
+        {
+            "Input": "User: What's the most effective way to water my plants? AI: Drip irrigation is considered the most effective way to water plants. User: Can you explain the benefits of using it?",
+            "Output": "User: Can you explain the benefits of using drip irrigation?"
+        },
+        {
+            "Input": "User: How can I improve soil fertility? AI: To improve soil fertility, you can use organic matter, crop rotation, and green manure. User: Which organic matter should I use?",
+            "Output": "User: Which organic matter should I use to improve soil fertility?",
+            "Comment": "No explicit coreference"
+        },
+        {
+            "Input": "User: What is the proper way to store harvested grains? AI: Store harvested grains in a cool, dry, and well-ventilated area. User: How do I keep pests away from them?",
+            "Output": "User: How do I keep pests away from the harvested grains?"
+        },
+        {
+            "Input": "User: When should I prune my fruit trees? AI: The best time to prune fruit trees is during the dormant season, usually in late winter. User: How should I do it properly?",
+            "Output": "User: How should I prune my fruit trees properly?"
+        },
+        {
+            "Input": "User: How can I prevent soil erosion in my field? AI: Planting cover crops and using mulch can help prevent soil erosion. User: Which cover crops are suitable?",
+            "Output": "User: Which cover crops are suitable for preventing soil erosion?",
+            "Comment": "No explicit coreference"
+        },
+        {
+            "Input": "User: What are the signs of nutrient deficiency in plants? AI: Signs of nutrient deficiency include yellowing leaves, stunted growth, and poor flowering. User: How can I address this issue?",
+            "Output": "User: How can I address the nutrient deficiency issue in plants?"            
+        },
+        {
+            "Input": "User: What is the best method to control weeds in my garden? AI: Mulching, hand-pulling, and using organic herbicides are effective ways to control weeds. User: Which organic herbicides are safe to use?",
+            "Output": "User: Which organic herbicides are safe to use to control weeds?",
+            "Comment": "No explicit coreference"            
+        },
+        {
+            "Input": "User: How often should I fertilize my vegetable garden? AI: You should fertilize your vegetable garden every 4-6 weeks during the growing season. User: What type of fertilizer is recommended?",
+            "Output": "User: What type of fertilizer is recommended for my vegetable garden?",
+            "Comment": "No explicit coreference"            
+        },
+        {
+            "Input": "User: How can I increase the yield of my maize crop? AI: Using high-yielding varieties, proper irrigation, and fertilization can increase maize yield. User: Are there any specific fertilizer recommendations?",
+            "Output": "User: Are there any specific fertilizer recommendations for my maize crop?",
+            "Comment": "No explicit coreference"             
+        },
+        {
+            "Input": "User: What's the best way to propagate rose plants? AI: The best way to propagate rose plants is through stem cuttings or grafting. User: When should I take the cuttings?",
+            "Output": "User: When should I take the cuttings for rose plants?",
+            "Comment": "No explicit coreference"             
+        },
+        {
+            "Input": "User: How can I improve the drainage in my clay soil? AI: You can improve clay soil drainage by adding organic matter and sand, and creating raised beds. User: What type of organic matter should I use?",
+            "Output": "User: What type of organic matter should I use to improve clay soil drainage?",
+            "Comment": "No explicit coreference"                
+        },
+        {
+            "Input": "User: How do I identify and control blight in my potato plants? AI: To identify blight, look for dark, water-soaked spots on leaves, and control it by using fungicides and resistant varieties. User: Which fungicides are effective against it?",
+            "Output": "User: Which fungicides are effective against blight in potato plants?"            
+        },
+        {
+            "Input": "User: What's the optimal spacing for planting rice seedlings? AI: The optimal spacing for rice seedlings is 20-25 cm between rows and 10-15 cm within rows. User: What is the best time for transplanting them?",
+            "Output": "User: What is the best time for transplanting rice seedlings?"            
+        },
+        {
+            "Input": "User: Can you recommend some drought-tolerant crops for my farm? AI: Some drought-tolerant crops include millets, sorghum, and cowpeas. User: What are the benefits of growing these?",
+            "Output": "User: What are the benefits of growing these drought-tolerant crops?"
+        },
+        {
+            "Input": "User: How can I identify aphids on my plants? AI: Aphids are small, pear-shaped insects that can be green, yellow, black, or brown. User: What can I do to control them?",
+            "Output": "User: What can I do to control aphids on my plants?"
+        },
+        {
+            "Input": "User: What are the benefits of using vermicompost in agriculture? AI: Vermicompost improves soil structure, enhances nutrient availability, and promotes plant growth. User: How can I produce it on my farm?",
+            "Output": "User: How can I produce vermicompost on my farm?"
+        },
+        {
+            "Input": "How do I ensure proper pollination for my fruit trees? AI: To ensure proper pollination, plant different varieties of the same species, and attract pollinators like bees and butterflies. User: How can I attract more pollinators?",
+            "Output": "User: How can I attract more pollinators to my fruit trees?",
+            "Comment": "No explicit coreference"               
+        },
+        {
+            "Input": "User: How to treat for blast pest? AI: To treat for blast pest in rice, you can treat the seeds with Pseudomonas fluorescens. User: What about brinjal?",
+            "Output": "User: What about blast pest treatment for brinjal?",
+            "Comment": "No explicit coreference"  
+        },
+        {
+            "Input": "User: What about blast pest treatment for brinjal? AI: To help prevent Phomopsis blight of brinjal, the user can treat their seed with Carboxin(37.5%). User: Which other pesticide can I use for this?",
+            "Output": "User: Which other pesticide can I use to prevent Phomopsis blight of brinjal?",
+            "Comment": "Wrong grammar for coreference" 
+        },
+        {
+            "Input": "User: How do I control powdery mildew on my cucumber plants? AI: To control powdery mildew on cucumber plants, you can use fungicides labeled for cucurbits and practice good plant spacing for airflow. User: Are there any organic methods to manage powdery mildew?",
+            "Output": "User: Are there any organic methods to manage powdery mildew on cucumber plants?",
+            "Comment": "No explicit coreference" 
+        },
+        {
+            "Input": "User: What is the best time to harvest watermelons? AI: Watermelons are typically ready for harvest when the fruit has a dull skin, the tendril near the stem turns brown, and the underside of the fruit has a yellow spot. User: How should I store harvested watermelons?",
+            "Output": "User: How should I store harvested watermelons?",
+            "Comment": "No coreference resolution required"               
+        },
+        {
+            "Input": "User: How can I prevent blossom end rot in my tomatoes? AI: Blossom end rot in tomatoes can be prevented by ensuring consistent soil moisture, providing adequate calcium levels, and avoiding over-fertilization. User: What are the symptoms of blossom end rot?",
+            "Output": "User: What are the symptoms of blossom end rot in tomatoes?",
+            "Comment": "No explicit coreference" 
+        },
+        {
+            "Input": "User: What are the benefits of using raised beds for vegetable gardening? AI: Raised beds provide better soil drainage, improved soil warming, and better control over soil quality. User: How can I construct a raised bed?",
+            "Output": "User: How can I construct a raised bed for vegetable gardening?",
+            "Comment": "No explicit coreference"   
+        },
+        {
+            "Input": "User: What are the best cover crops for improving nitrogen levels in the soil? AI: Legume cover crops such as clover, vetch, and peas are excellent choices for improving nitrogen levels in the soil. User: When should I terminate the cover crops?",
+            "Output": "User: When should I terminate the cover crops for nitrogen improvement in the soil?",
+            "Comment": "No explicit coreference" 
+        },
+        {
+            "Input": "User: How do I identify and treat common tomato diseases? AI: Common tomato diseases such as early blight, late blight, and powdery mildew can be identified by characteristic symptoms, and treatment options include using fungicides labeled for tomatoes and practicing good sanitation. User: Which fungicides are effective against early blight?",
+            "Output": "User: Which fungicides are effective against early blight in tomatoes?",
+            "Comment": "No explicit coreference"   
+        },
+        {
+            "Input": "User: What is the recommended pH range for growing blueberries? AI: Blueberries prefer acidic soil with a pH range of 4.5 to 5.5. User: How can I lower the pH of my soil?",
+            "Output": "User: How can I lower the pH of my soil for blueberry cultivation?",
+            "Comment": "No explicit coreference" 
+        },
+        {
+            "Input": "User: What is the recommended harvesting method for lettuce? AI: Lettuce can be harvested by either cutting the whole head or by picking individual leaves. User: How should I store harvested lettuce?",
+            "Output": "User: How should I store harvested lettuce?",
+            "Comment": "No coreference resolution required" 
+        },
+        {
+            "Input": "User: How do I prevent fruit splitting in my tomatoes? AI: To prevent fruit splitting in tomatoes, ensure consistent watering, avoid over-fertilization, and provide adequate calcium levels. User: What are the causes of fruit splitting?",
+            "Output": "User: What are the causes of fruit splitting in tomatoes?",
+            "Comment": "No explicit coreference"            
+        },
+        {
+            "Input": "User: What are the advantages of using drip irrigation in a greenhouse? AI: Drip irrigation in a greenhouse offers efficient water use, reduces the risk of foliar diseases, and allows targeted application of nutrients. User: How do I install a drip irrigation system in a greenhouse?",
+            "Output": "User: How do I install a drip irrigation system in a greenhouse?",
+            "Comment": "No coreference resolution required"   
+        },
+        {
+            "Input": "User: How do I control weeds in my flower garden? AI: Weed control in a flower garden can be achieved by mulching, hand-weeding, and using pre-emergent herbicides labeled for ornamental plants. User: What are some effective organic mulching options?",
+            "Output": "User: What are some effective organic mulching options for weed control in a flower garden?",
+            "Comment": "No explicit coreference"               
+        },
+        {
+            "Input": "User: What is the recommended spacing for planting strawberry plants? AI: Strawberry plants should be spaced approximately 12-18 inches apart in rows with 3-4 feet between rows. User: How do I propagate new strawberry plants?",
+            "Output": "User: How do I propagate new strawberry plants?",
+            "Comment": "No coreference resolution required"               
+        },
+        {
+            "Input": "User: How do I deter rabbits from eating my vegetable plants? AI: To deter rabbits from eating vegetable plants, you can use physical barriers like fencing, repellents with strong scents, or companion planting with rabbit-resistant plants. User: Which plants are known to repel rabbits?",
+            "Output": "User: Which plants are known to repel rabbits from vegetable gardens?",
+            "Comment": "No explicit coreference"               
+        },
+        {
+            "Input": "User: What are the common diseases that affect tomato plants? AI: Common diseases that affect tomato plants include early blight, late blight, and tomato mosaic virus. User: How can I prevent the spread of these diseases?",
+            "Output": "User: How can I prevent the spread of early blight, late blight, and tomato mosaic virus in tomato plants?",
+            "Comment": "Partial explicit coreference missing" 
+        },
+        {
+            "Input": "User: How can I control powdery mildew on my cucumbers? AI: To control powdery mildew on cucumbers, you can use fungicides labeled for cucurbits, practice proper spacing for air circulation, and remove infected leaves. User: Which fungicides are recommended for controlling powdery mildew?",
+            "Output": "User: Which fungicides are recommended for controlling powdery mildew on cucumbers?",
+            "Comment": "No explicit coreference"  
+        },
+        {
+            "Input": "User: How do I prune my grapevines? AI: Grapevines should be pruned during the dormant season. Prune away old wood and shape the vine to maintain an open canopy. User: How do I train young grapevines?",
+            "Output": "User: How do I train young grapevines?",
+            "Comment": "No coreference resolution required"   
+        },
+        {
+            "Input": "User: What are the signs of overwatering plants? AI: Signs of overwatering plants include wilting, yellowing leaves, and root rot. User: How do I fix it?",
+            "Output": "User: How do I fix overwatering plants?",
+            "Comment": "Bad coreference grammar"
+        },
+        {
+            "Input": "User: How do I protect my plants from frost? AI: To protect plants from frost, cover them with frost blankets or use methods like overhead sprinkling to create a protective ice layer. User: When should I remove the frost protection?",
+            "Output": "User: When should I remove the frost protection for plants?",
+            "Comment": "No explicit coreference"            
+        },
+        {
+            "Input": "User: How can I reduce energy consumption in my home? AI: You can reduce energy consumption in your home by using energy-efficient appliances, insulating your home properly, and using natural lighting whenever possible. User: What are some energy-efficient appliances I should consider?",
+            "Output": "User: What are some energy-efficient appliances I should consider for reducing energy consumption in my home?",
+            "Comment": "No explicit coreference"               
+        },
+        {
+            "Input": "User: How can I improve my time management skills? AI: To improve your time management skills, you can prioritize tasks, create a schedule or to-do list, and minimize distractions. User: What are some effective strategies for minimizing distractions?",
+            "Output": "User: What are some effective strategies for minimizing distractions to improve time management?",
+            "Comment": "No explicit coreference"   
+        },
+        {
+            "Input": "User: What are some effective ways to reduce stress? AI: Some effective ways to reduce stress include practicing mindfulness or meditation, engaging in regular physical exercise, and maintaining a healthy work-life balance. User: How can I incorporate mindfulness into my daily routine?",
+            "Output": "User: How can I incorporate mindfulness into my daily routine to reduce stress?",
+            "Comment": "No explicit coreference" 
+        },
+        {
+            "Input": "User: How can I improve my communication skills? AI: You can improve your communication skills by actively listening, practicing clear and concise speaking, and being aware of non-verbal cues. User: What are some exercises for practicing active listening?",
+            "Output": "User: What are some exercises for practicing active listening to improve communication skills?",
+            "Comment": "No explicit coreference"  
+        },
+        {
+            "Input": "User: How can I start a successful online business? AI: To start a successful online business, you need to identify your target audience, create a compelling website or online store, and develop a robust marketing strategy. User: What are some effective marketing strategies for online businesses?",
+            "Output": "User: What are some effective marketing strategies for promoting online businesses?"
+        },
+        {
+            "Input": "User: How can I improve my financial management skills? AI: You can improve your financial management skills by creating a budget, tracking your expenses, and investing wisely. User: What are some key principles of wise investing?",
+            "Output": "User: What are some key principles of wise investing for improving financial management skills?",
+            "Comment": "No explicit coreference"   
+        },
+        {
+            "Input": "User: How can I maintain a healthy work-life balance? AI: To maintain a healthy work-life balance, set boundaries between work and personal life, prioritize self-care, and learn to delegate tasks when needed. User: What are some self-care activities I can incorporate into my routine?",
+            "Output": "User: What are some self-care activities I can incorporate into my routine to maintain a healthy work-life balance?",
+            "Comment": "No explicit coreference"              
+        },
+        {
+            "Input": "User: How can I house-train my new puppy? AI: To house-train your new puppy, establish a consistent routine for feeding and bathroom breaks, use positive reinforcement for desired behavior, and supervise closely during the training period. User: What are some effective methods for positive reinforcement during house-training?",
+            "Output": "User: What are some effective methods for positive reinforcement during the house-training of a puppy?",
+            "Comment": "No explicit coreference"   
+        },
+        {
+            "Input": "User: What is the importance of crop rotation in sustainable agriculture? AI: Crop rotation improves soil fertility, reduces pests and diseases, and increases crop yield. User: How do I plan an effective rotation schedule?",
+            "Output": "User: How do I plan an effective crop rotation schedule?",
+            "Comment": "Review required" 
+        },
+        {
+            "Input": "User: What is the recommended planting depth for carrots? AI: Carrot seeds should be planted at a depth of 1/4 to 1/2 inch. User: How far apart should I space the carrot rows?",
+            "Output": "User: How far apart should I space the carrot rows when planting?",
+            "Comment": "Review required"   
+        },
+        {
+            "Input": "User: How do I protect my apple trees from codling moth infestation? AI: To protect apple trees from codling moth infestation, you can use pheromone traps, apply insecticides at the appropriate timing, and practice good orchard sanitation. User: What is the life cycle of codling moths?",
+            "Output": "User: What is the life cycle of codling moths that infest apple trees?",
+            "Comment": "Review required" 
+        },
+        {
+            "Input": "User: What is the best time to harvest garlic? AI: Garlic bulbs are ready for harvest when the leaves turn yellow and start to dry out. It is usually in mid to late summer. User: How should I cure harvested garlic?",
+            "Output": "User: How should I cure harvested garlic bulbs?",
+            "Comment": "Review required"
+        },
+        {
+            "Input": "User: What are some natural methods to control aphids? AI: Some natural methods to control aphids include introducing beneficial insects like ladybugs, using insecticidal soaps, and spraying neem oil. User: How do I make insecticidal soap at home?",
+            "Output": "User: How do I make insecticidal soap at home for controlling aphids?",
+            "Comment": "Review required" 
+        },
+        {
+            "Input": "User: What are some signs of a healthy and well-cared-for cat? AI: Signs of a healthy and well-cared-for cat include bright and clear eyes, a shiny coat, and a healthy appetite. User: How often should I take my cat to the veterinarian for check-ups?",
+            "Output": "User: How often should I take my cat to the veterinarian for check-ups to ensure its health?",
+            "Comment": "Review required"   
+        },
+        {
+            "Input": "User: How can I train my parrot to talk? AI: To train your parrot to talk, start with simple words or phrases, repeat them consistently, and reward the parrot with treats or praise when it mimics the desired words. User: What are some common words or phrases that parrots can learn to say?",
+            "Output": "User: What are some common words or phrases that parrots can learn to say during training?",
+            "Comment": "Review required" 
+        },
+        {
+            "Input": "User: How can I provide enrichment for my pet rabbit? AI: You can provide enrichment for your pet rabbit by offering toys and puzzles for mental stimulation, providing opportunities for physical exercise, and providing a varied and balanced diet. User: What are some suitable toys for rabbits?",
+            "Output": "User: What are some suitable toys for rabbits to enhance their enrichment?",
+            "Comment": "Review required" 
+        },
+        {
+            "Input": "User: How can I introduce a new fish to my aquarium? AI: To introduce a new fish to your aquarium, acclimate it to the water temperature, gradually introduce it to the tank, and monitor its behavior for any signs of stress or aggression from other fish. User: What are some signs of stress in fish?",
+            "Output": "User: What are some signs of stress in fish that I should look out for during the introduction process?",
+            "Comment": "Review required"  
+        },
+        {
+            "Input": "User: How often should I feed my cat? AI: Cats should generally be fed twice a day, but the specific feeding schedule may vary depending on factors such as age, health condition, and dietary requirements. User: What if my cat has diabetes and requires a specialized diet?",
+            "Output": "User: What if my cat has diabetes and requires a specialized diet? How should I modify its feeding schedule and dietary choices?",
+            "Comment": "Review required"
+        }
+    ]
+}
