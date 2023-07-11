@@ -89,7 +89,7 @@
             "Output": "User: How can I produce vermicompost on my farm?"
         },
         {
-            "Input": "How do I ensure proper pollination for my fruit trees? AI: To ensure proper pollination, plant different varieties of the same species, and attract pollinators like bees and butterflies. User: How can I attract more pollinators?",
+            "Input": "User: How do I ensure proper pollination for my fruit trees? AI: To ensure proper pollination, plant different varieties of the same species, and attract pollinators like bees and butterflies. User: How can I attract more pollinators?",
             "Output": "User: How can I attract more pollinators to my fruit trees?",
             "Comment": "No explicit coreference"               
         },

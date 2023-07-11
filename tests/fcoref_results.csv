@@ -19,7 +19,7 @@ Example Number,Output,Prediction,Cosine Score,Comment
 18,What are the benefits of growing these drought-tolerant crops?," What are the benefits of growing millets, sorghum, and cowpeas?",0.65,None
 19,What can I do to control aphids on my plants?, What can I do to control Aphids?,0.94,None
 20,How can I produce vermicompost on my farm?, How can I produce vermicompost on my farm?,1.0,None
-21,How can I attract more pollinators to my fruit trees?, How can User attract more pollinators?,0.7,No explicit coreference
+21,How can I attract more pollinators to my fruit trees?, How can I attract more pollinators?,0.79,No explicit coreference
 22,What about blast pest treatment for brinjal?, What about brinjal?,0.56,No explicit coreference
 23,Which other pesticide can I use to prevent Phomopsis blight of brinjal?, Which other pesticide can User use for this?,0.62,Wrong grammar for coreference
 24,Are there any organic methods to manage powdery mildew on cucumber plants?, Are there any organic methods to manage powdery mildew?,0.85,No explicit coreference
