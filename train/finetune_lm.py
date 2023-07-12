@@ -6,7 +6,7 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 parser = ArgumentParser()
 parser.add_argument("--model", type=str, default="")
-parser.add_argument("--epochs", type=int, default=1)
+parser.add_argument("--epochs", type=float, default=1)
 parser.add_argument("--batch_size", type=int, default=2)
 parser.add_argument("--checkpoint", type=str, default="")
                     
