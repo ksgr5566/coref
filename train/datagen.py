@@ -72,7 +72,6 @@ for i in tqdm(range(2)):
         res = json.loads(res)
         for item in res:
             if "Input" not in item or "Output" not in item:
-                print("Error herereraklsfhkalsf")
                 raise Exception("Input/Output not in item")
             try:
                 item["Input"].split('User: ')[1].split('AI: ')[0]
